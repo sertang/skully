@@ -4,18 +4,7 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "cpu-stat": "^2.0.1",
-    "discord.js": "^11.3.2",
-    "ffmpeg-binaries": "^3.2.2-3",
-    "fs": "^0.0.1-security",
-    "moment": "^2.22.2",
-    "moment-duration-format": "^2.2.2",
-    "npm": "^6.1.0",
-    "os": "^0.1.1",
-    "ms": "^2.1.1",
-    "simple-youtube-api": "^5.0.2",
-    "opusscript": "0.0.6",
-    "ytdl-core": "^0.20.2"
+    "discord.js": "^11.3.2"
   },
   "devDependencies": {},
   "scripts": {
